@@ -1,4 +1,4 @@
-# 42ft_printf
+# 42Ft_printf
 
 A recode of the `printf()` function from C Standard Library with the following features:
 
