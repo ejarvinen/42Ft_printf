@@ -14,6 +14,8 @@ A recode of the `printf()` function from C Standard Library with the following f
 
 There is no implementation for the buffer management of the original `printf()`.
 
+This project is designed to be an add-on to [Libft library](https://github.com/ejarvinen/42Libft).
+
 ### Compilation
 
 `git clone` to desired directory. `cd` into that directory. Run `git submodule init` and `git submodule update` in the same directory and then `make`. Use `.a` file in other work.
