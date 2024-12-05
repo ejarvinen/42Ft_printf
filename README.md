@@ -1,6 +1,6 @@
 # 42Ft_printf
 
-A recode of the `printf()` function from C Standard Library with the following features:
+A 42 school project of re-coded `printf()` function from C Standard Library with the following features:
 
 * `%c` prints a single character
 * `%s` prints a string as defined by the common C convention
